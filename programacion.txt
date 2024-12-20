@@ -1,0 +1,69 @@
+¿Cuál es el valor por defecto retornado por una función en C si no se especifica?
+a) 0
+b) NULL
+c) Depende del compilador
+d) Indefinido
+d
+
+¿Qué palabra clave se utiliza para definir una constante en C?
+a) var
+b) define
+c) const
+d) static
+c
+
+Si se declara un array como int arr[10], ¿cuál es el índice del último elemento?
+a) 9
+b) 10
+c) Indeterminado
+d) 11
+a
+
+¿Qué simboliza el operador & en C?
+a) Operación de dirección de memoria
+b) Operador de referencia
+c) AND lógico
+d) Ambas a y b
+d
+
+¿Qué biblioteca se debe incluir para trabajar con funciones de entrada/salida en C?
+a) stdlib.h
+b) string.h
+c) stdio.h
+d) math.h
+c
+
+¿Cuál es la función que se utiliza para asignar memoria dinámicamente?
+a) malloc
+b) free
+c) realloc
+d) memory_alloc
+a
+
+¿Qué hace el operador ++ en C?
+a) Incrementa el valor de una variable en 1
+b) Asigna 0 a una variable
+c) Compara dos variables
+d) Decrementa el valor de una variable
+a
+
+¿Cuál es el tipo de dato que devuelve la función strcmp en C?
+a) void
+b) int
+c) char
+d) bool
+b
+
+¿Qué palabra clave se utiliza para detener un bucle en C?
+a) halt
+b) stop
+c) exit
+d) break
+d
+
+¿Qué significa la sentencia return en una función en C?
+a) Termina la ejecución del programa
+b) Finaliza el programa y libera memoria
+c) Sale de la función actual y devuelve un valor
+d) Continúa con la siguiente iteración
+c

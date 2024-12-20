@@ -1,0 +1,69 @@
+¿Qué ley relaciona voltaje, corriente y resistencia?
+a) Ley de Faraday
+b) Ley de Ohm
+c) Ley de Kirchhoff
+d) Ninguna de las anteriores
+b
+
+¿Cuál es la unidad de capacitancia?
+a) Ohmio
+b) Voltio
+c) Faradio
+d) Watt
+c
+
+¿Qué dispositivo almacena energía en un campo eléctrico?
+a) Resistor
+b) Capacitor
+c) Diodo
+d) Transistor
+b
+
+¿Cuál es la frecuencia de la corriente alterna en la mayoría de los países?
+a) 50 Hz
+b) 60 Hz
+c) 120 Hz
+d) 100 Hz
+a
+
+¿Qué tipo de transistor se utiliza en amplificadores comunes?
+a) BJT
+b) MOSFET
+c) SCR
+d) IGBT
+a
+
+¿Qué mide un osciloscopio?
+a) Resistencia
+b) Señales eléctricas en el tiempo
+c) Capacitancia
+d) Potencia
+b
+
+¿Cuál es el valor aproximado de la constante de Planck?
+a) 6.626 × 10^-34 Js
+b) 9.8 m/s^2
+c) 1.602 × 10^-19 C
+d) 3 × 10^8 m/s
+a
+
+En un circuito RLC en serie, ¿qué ocurre en resonancia?
+a) La impedancia es mínima
+b) La impedancia es máxima
+c) La corriente es cero
+d) El voltaje es infinito
+a
+
+¿Cuál es la función principal de un diodo rectificador?
+a) Almacenar energía
+b) Convertir corriente alterna en corriente continua
+c) Amplificar señales
+d) Regular voltaje
+b
+
+¿Qué es un transformador?
+a) Un dispositivo que convierte energía mecánica en eléctrica
+b) Un dispositivo que almacena energía
+c) Un dispositivo que cambia el nivel de voltaje en un circuito
+d) Un componente que bloquea corriente alterna
+c

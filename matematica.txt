@@ -1,0 +1,69 @@
+¿Cuál es la forma general de una ecuación cuadrática?
+a) ax^2 + bx + c = 0
+b) ax + b = 0
+c) ax^3 + bx^2 + cx + d = 0
+d) Ninguna de las anteriores
+a
+
+Si la derivada de f(x) = x^2 es tomada, ¿cuál es el resultado?
+a) 2x
+b) x^2
+c) 1
+d) x
+a
+
+¿Qué representa el discriminante en una ecuación cuadrática?
+a) La suma de las raíces
+b) La diferencia de las raíces
+c) El número de soluciones reales
+d) La pendiente de la función
+c
+
+¿Qué indica el límite de una función cuando x tiende a infinito?
+a) El comportamiento de la función para valores grandes de x
+b) El punto de intersección con el eje x
+c) La pendiente en un punto específico
+d) La derivada de la función
+a
+
+Si el integral de f(x) = x es calculado, ¿cuál es el resultado?
+a) x^2 / 2 + C
+b) x^2 + C
+c) x / 2 + C
+d) x + C
+a
+
+¿Qué es un sistema de ecuaciones lineales?
+a) Un conjunto de ecuaciones que comparten las mismas soluciones
+b) Una ecuación con soluciones infinitas
+c) Una ecuación cuadrática
+d) Una ecuación diferencial
+a
+
+¿Cuál es el valor de e (base del logaritmo natural)?
+a) 3.14
+b) 2.718
+c) 1.414
+d) 0.577
+b
+
+Si una matriz tiene filas iguales a columnas, ¿cuál es su tipo?
+a) Rectangular
+b) Cuadrada
+c) Diagonal
+d) Singular
+b
+
+¿Cuál es la regla del producto para derivadas?
+a) f'(x)g'(x)
+b) f(x)g'(x) + f'(x)g(x)
+c) f(x)g(x)
+d) f'(x) / g'(x)
+b
+
+Si una función es continua en un intervalo cerrado, ¿qué teorema garantiza que alcanza un valor máximo y mínimo?
+a) Teorema del valor medio
+b) Teorema de Bolzano
+c) Teorema de Rolle
+d) Teorema del valor extremo
+d
