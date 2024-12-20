@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------
 |  Autor: Albert Luna                  Matricula: 1-22-1500      |
-|  Fecha: 1-11-2024                     Versión: No.2           |
+|  Fecha: 20-12-2024                     Versión: No.2           |
 |-----------------------------------------------------------------|
 |  Descripción del Programa: Calculadora técnica y simulador de  |
 |  cuestionarios técnicos sobre diversos temas.                  |
